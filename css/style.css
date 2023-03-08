@@ -277,6 +277,10 @@ footer > hr {
   .matches {
     grid-template-columns: repeat(2, 1fr);
   }
+  .transfers {
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 60px;
+  }
   .aside {
     width: 10vw;
   }
